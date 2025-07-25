@@ -2,7 +2,6 @@
 
 A machine learning project to predict employee salaries based on job position and experience level. This project was developed as part of an AI course and demonstrates how to build, train, and deploy a regression model using Python, scikit-learn, and Flask.
 
-
 📌 Features
 
 - Predicts employee salary based on job position
@@ -11,7 +10,6 @@ A machine learning project to predict employee salaries based on job position an
 - Interactive development and analysis in Jupyter Notebook
 - Clean and modular code (`model.py`)
 
-
 🧠 Technologies Used
 
 - Python
@@ -19,7 +17,6 @@ A machine learning project to predict employee salaries based on job position an
 - Flask
 - pandas, numpy, matplotlib
 - Jupyter Notebook
-
 
 📂 Files Overview
 
@@ -30,7 +27,6 @@ A machine learning project to predict employee salaries based on job position an
 | `AI_model.ipynb`        | Jupyter Notebook for EDA, training, and testing    |
 | `Position_Salaries.csv` | Dataset used for training and testing              |
 | `requirements.txt`      | List of required Python libraries                  |
-
 
 ⚙️ Installation
 
