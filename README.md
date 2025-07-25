@@ -23,13 +23,13 @@ A machine learning project to predict employee salaries based on job position an
 
 📂 Files Overview
 
-| File/Folder            | Description                                  |
-|------------------------|----------------------------------------------|
-| `app.py`               | Flask web application to serve predictions   |
-| `model.py`             | Contains machine learning model logic        |
-| `AI_model.ipynb`       | Jupyter Notebook for EDA, training, and testing |
-| `Position_Salaries.csv`| Dataset used for training and testing        |
-| `requirements.txt`     | List of required Python libraries            |
+| File/Folder             | Description                                        |
+|-------------------------|----------------------------------------------------|
+| `app.py`                | Flask web application to serve predictions         |
+| `model.py`              | Contains machine learning model logic              |
+| `AI_model.ipynb`        | Jupyter Notebook for EDA, training, and testing    |
+| `Position_Salaries.csv` | Dataset used for training and testing              |
+| `requirements.txt`      | List of required Python libraries                  |
 
 
 ⚙️ Installation
