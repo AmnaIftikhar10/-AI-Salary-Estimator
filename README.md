@@ -40,3 +40,20 @@ cd ai-salary-estimator
 python -m venv env
 source env/bin/activate  # On Windows: env\Scripts\activate
 pip install -r requirements.txt
+
+```
+
+🚀 How to Run the Project
+
+1. Run Jupyter Notebook 
+
+```bash
+jupyter notebook AI_model.ipynb
+python app.py
+
+```
+
+Then open your browser and go to:
+
+http://localhost:5000
+
