@@ -45,15 +45,23 @@ pip install -r requirements.txt
 
 🚀 How to Run the Project
 
-1. Run Jupyter Notebook 
+1. Run the Jupyter Notebook (for exploration or training):
 
 ```bash
 jupyter notebook AI_model.ipynb
+
+```
+
+2. Run the Flask application (for prediction via web interface):
+   
+```bash
 python app.py
 
 ```
 
-Then open your browser and go to:
+3. Open your browser and go to:
+   
+   http://localhost:5000
 
-http://localhost:5000
+
 
