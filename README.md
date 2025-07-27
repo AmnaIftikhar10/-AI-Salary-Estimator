@@ -61,7 +61,7 @@ python app.py
 
 3. Open your browser and go to:
    
-   http://[http://localhost:8888]
+(http://localhost:5000)
 
 
 
